@@ -1,2 +1,1 @@
-# Customer-Churn
-Customer Churn prediction using  ML
+# Customer_churn
